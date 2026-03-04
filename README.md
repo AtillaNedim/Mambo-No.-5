@@ -1,4 +1,4 @@
-# 🎵 Mambo No. 5 – README
+# Mambo No. 5 – README
 
 *A little bit of Monica in my life*
 *A little bit of Erica by my side*
