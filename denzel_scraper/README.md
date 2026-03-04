@@ -45,3 +45,9 @@ python scraper.py --base-url "https://www.denzel.at/gebrauchtwagen/suche?bauart=
 ## Hinweis
 
 Die Website kann Struktur aendern. Falls sich CSS-Klassen/HTML aendern, muessen Selektoren in `scraper.py` angepasst werden.
+
+## Screenshots
+
+![Suche Ergebnisliste](assets/Pasted%20image.png)
+![Fahrzeug Detailseite](assets/Screenshot%20From%202026-03-05%2000-47-03.png)
+![RAG Workflow Diagramm](assets/image.png)
