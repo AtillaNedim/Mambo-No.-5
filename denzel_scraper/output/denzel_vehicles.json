@@ -1,0 +1,139 @@
+{
+  "source": "https://www.denzel.at/gebrauchtwagen/suche",
+  "scraped_at_utc": "2026-03-04T23:21:49Z",
+  "reported_total_results": 2002,
+  "pages_processed": 1,
+  "vehicles_count": 1,
+  "vehicles": [
+    {
+      "vehicle_id": "74100",
+      "title": "Jeep - Avenger BEV 54kWh Summit",
+      "brand": "Jeep",
+      "model": "Avenger BEV 54kWh Summit",
+      "detail_url": "https://www.denzel.at/gebrauchtwagen/jeep-avenger-bev-54kwh-summit-74100",
+      "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/gw_255x192px/public/fahrzeuge/8385735/8385735-1-69a7cf1b8d70f.jpg?itok=12HMYlO9",
+      "registration": "06 / 2023",
+      "mileage": "41.713 km",
+      "price_text": "ehem. NP € 45.300,- € 18.990,-",
+      "previous_price_text": "ehem. NP € 45.300,-",
+      "down_payment_text": "Anzahlung bei Online Kauf: € 1.000,-",
+      "tech_specs": [
+        "155 PS (115 kW)",
+        "Elektro",
+        "Gebrauchtwagen",
+        "Direkt (i)",
+        "Hinterrad",
+        "0 g CO 2 /km (komb.)"
+      ],
+      "location": "Denzel Klagenfurt | Hyundai, Mitsubishi, Toyota & Volvo",
+      "detail": {
+        "title": "Jeep Avenger BEV 54kWh Summit",
+        "color": "schwarz",
+        "detail_url": "https://www.denzel.at/gebrauchtwagen/jeep-avenger-bev-54kwh-summit-74100",
+        "current_price_text": "18.990€",
+        "old_price_text": "45.300€",
+        "neupreis_text": "45.300€ Neupreis",
+        "highlights": {
+          "Erstzulassung": "06 / 2023",
+          "Leistung": "155 PS / 115 kW",
+          "Co2 Emission": "0 g / km",
+          "Antrieb": "Elektro, Direkt (i)"
+        },
+        "contacts": [
+          {
+            "name": "Romina Linda Mörtl",
+            "email": "romina-linda.moertl@denzel.at",
+            "phones": [
+              "+43 463 432 00 6806",
+              "+43 664 80741 6806"
+            ],
+            "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/mitarbeiter_150x150px/public/mitarbeiter/Mörtl Romina.png?itok=Hi7sVZ6p"
+          },
+          {
+            "name": "Herbert Trampitsch",
+            "email": "herbert.trampitsch@denzel.at",
+            "phones": [
+              "+43 463 432 00 6805"
+            ],
+            "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/mitarbeiter_150x150px/public/mitarbeiter/Trampitsch-Herbert_0.jpg?itok=ftbZPyKn"
+          }
+        ],
+        "description": "Auf das Fahrzeug gewähren wir Ihnen eine Garantie. Fahrzeug ist leasingfähig. Neupreis: EUR 45.300,00 Uni-Lackierung Volcano, Reifen-Reparatur-Kit Fix & Go, Ledersitze, 10,25\" Uconnect Display mit Multitouch-Funktion, 10,25\" volldigitale TFT-Instrumentenanzeige mit Farbdisplay, 100 kW schnellladefähig, 11 kW Onboard-Charger, dreiphasig, 18\" Leichtmetallfelgen, grau/schwarz 215/55 R18, Sommerreifen, 180° Rückfahrkamera mit Vogelperspektive, 360° Parksensoren, vorne & hinten & seitlich, ABS, Abgedunkelte Heckscheibe und Seitenscheiben hinten, Adaptiver Tempomat mit Abstandsregelung, Airbag für Fahrer und Beifahrer mehrstufig, Apple Carplay / Android Auto (kabellos), Armaturenbrett, gelb, Audiosystem mit 6 Lautsprechern, Autobahnassistent (Autonomes Fahren Level 2), Automatisches Fern-und Abblendlicht, Autonomes Notfall-Bremssystem (AEB) mit Fußgänger- und Fahrraderkennung, Außenspiegel elektrisch beheizbar, Außenspiegel elektrisch verstell-, beheiz -und abblendbar sowie autom. ankl, Außenspiegel elektrisch verstellbar, Außenspiegelkappen, lackiert schwarz glänzend, Begrüßungs-/Abschiedsbeleuchtung, Beheizte Windschutzscheibe im Bereich der Scheibenwischer, Beifahrer-Airbag Deaktivierung, Beifahrersitz 4-fach manuell verstellbar, Bergabfahrhilfe, DAB Radio, Elektrische Fensterheber vorne und hinten, Elektrische Heckklappe mit Fuß Sensor, Elektronische Parkbremse mit Autohold-Funktion, Elektronisches Stabilitätsprogramm (ESP) inkl. Berganfahrhilfe, Fahrersitz 6-fach manuell verstellbar, Fahrmodus-Wahlschalter, Garantie, Haltegriff für den Beifahrer, ISOFIX Befestigungssystem, Beifahrersitz, Induktive Ladestation, Klimaautomatik, Kopfstützen, hinten, LED Nebelscheinwerfer mit Abbiegefunktion, LED Rückleuchten, LED Scheinwerfer, Lenkrad mit hochwertiger Ledernachbildung überzogen, Magnetische Abdeckung für die Mittelkonsole, Mehrfarbige LED-Ambiente-Innenraumbeleuchtung, Mittelarmlehne vorne, verschiebbar mit Staufach, Mode 3 Ladekabel, dreiphasig, Müdigkeitserkennung, Fahrer, Passive Entry, Rahmenloser Innenspiegel automatisch abblendbar, Regensensor & Lichtsensor, Reife",
+        "technical_data": {
+          "Erstzulassung": "06 / 2023",
+          "Kilometerstand": "41.713 km",
+          "Leasingfähig": "Ja",
+          "Leistung": "155 PS / 115 kW",
+          "Treibstoff": "Elektro",
+          "Fahrzeugaufbau": "SUV",
+          "Getriebe": "Direkt (i)",
+          "Antrieb": "Hinterrad",
+          "Emission CO2": "0g/km",
+          "Abgasnorm": "Keine Verknüpfung",
+          "Türen": "5",
+          "Sitze": "5",
+          "Lackierung": "schwarz",
+          "Abmessungen (LxBxH)": "4.084cm x 1.776cm x 1.527cm",
+          "Eurotax": "275532",
+          "FahrzeugID": "044517567"
+        },
+        "equipment": "Uni-Lackierung Volcano 360° Parksensoren, vorne & hinten & seitlich ABS Abgedunkelte Heckscheibe und Seitenscheiben hinten Adaptiver Tempomat mit Abstandsregelung Airbag für Fahrer und Beifahrer mehrstufig Apple Carplay / Android Auto (kabellos) Armaturenbrett, gelb Audiosystem mit 6 Lautsprechern Autobahnassistent (Autonomes Fahren Level 2) Automatisches Fern-und Abblendlicht Reifen-Reparatur-Kit Fix & Go Autonomes Notfall-Bremssystem (AEB) mit Fußgänger- und Fahrraderkennung Außenspiegel elektrisch beheizbar Außenspiegel elektrisch verstell-, beheiz -und abblendbar sowie autom. ankl Außenspiegel elektrisch verstellbar Außenspiegelkappen, lackiert schwarz glänzend Begrüßungs-/Abschiedsbeleuchtung Beheizte Windschutzscheibe im Bereich der Scheibenwischer Beifahrer-Airbag Deaktivierung Beifahrersitz 4-fach manuell verstellbar Bergabfahrhilfe Ledersitze DAB Radio Elektrische Fensterheber vorne und hinten Elektrische Heckklappe mit Fuß Sensor Elektronische Parkbremse mit Autohold-Funktion Elektronisches Stabilitätsprogramm (ESP) inkl. Berganfahrhilfe Fahrersitz 6-fach manuell verstellbar Fahrmodus-Wahlschalter Garantie Haltegriff für den Beifahrer ISOFIX Befestigungssystem, Beifahrersitz 10,25\" Uconnect Display mit Multitouch-Funktion Induktive Ladestation Klimaautomatik Kopfstützen, hinten LED Nebelscheinwerfer mit Abbiegefunktion LED Rückleuchten LED Scheinwerfer Lenkrad mit hochwertiger Ledernachbildung überzogen Magnetische Abdeckung für die Mittelkonsole Mehrfarbige LED-Ambiente-Innenraumbeleuchtung Mittelarmlehne vorne, verschiebbar mit Staufach 10,25\" volldigitale TFT-Instrumentenanzeige mit Farbdisplay Mode 3 Ladekabel, dreiphasig Müdigkeitserkennung, Fahrer Passive Entry Rahmenloser Innenspiegel automatisch abblendbar Regensensor & Lichtsensor Reifendruckkontrollsystem (TPMS) Rückentaschen an den Vordersitzen Rücksitzbank umklappbar (im Verhältnis 60:40) Schlüsselloses Zugangs-und Startsystem Keyless Entry & Go Selec Terrain System 100 kW schnellladefähig Servicenummern-Aufkleber auf Sonnenblende (I am Jeep) Servolenkung Sitzheizung vorne Spurhalteassistent Plus (LaneSense) Stoff Fußmatten, vorne & hinten Toter-Winkel-Assistent und hintere Querbewegungserkennung Traktionskontrolle Trennelemente für die Mittelkonsole (2x) Türgriffe außen in Wagenfarbe USB C-Anschluss, hinten 11 kW Onboard-Charger, dreiphasig Uconnect Box & Uconnect Services Verkehrszeichenerkennung Vorklimatisierung des Innenraums 18\" Leichtmetallfelgen, grau/schwarz 215/55 R18, Sommerreifen 180° Rückfahrkamera mit Vogelperspektive",
+        "location": {
+          "name": "Denzel Klagenfurt | Hyundai, Mitsubishi, Toyota & Volvo",
+          "address": "St. Veiter Straße 209 9020 Klagenfurt",
+          "phone": "+43 463 432 00",
+          "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/breite_594px/public/kundencenter/denzel-klagenfurt-sv-neu.jpg?itok=61qshn6_"
+        },
+        "photo_links": [
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-1-69a7cf1b8d70f.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-2-69a7cf1b8f61a.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-3-69a7cf1b90ed9.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-4-69a7cf1b927f1.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-5-69a7cf1b93e82.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-6-69a7cf1b952b5.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-7-69a7cf1b971d6.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-8-69a7cf1b98a32.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-9-69a7cf1b9ac16.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-10-69a7cf1b9c99e.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-11-69a7cf1b9e63f.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-12-69a7cf1ba00ba.jpg",
+          "https://www.denzel.at/sites/denzel.at/files/fahrzeuge/8385735/8385735-13-69a7cf1ba1406.jpg"
+        ],
+        "similar_vehicles": [
+          {
+            "detail_url": "https://www.denzel.at/gebrauchtwagen/jeep-avenger-12-e-hybrid-altitude-e-dct6-73465",
+            "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/350x263px_crop/public/fahrzeuge/8359141/8359141-1-69a7d01200061.jpg?itok=gpCeW41p",
+            "brand": "Jeep",
+            "model": "Avenger 1.2 e-Hybrid Altitude e-DCT6",
+            "price_text": "€ 25.900,-",
+            "description": "Benzin / Automatik Erstzulassung 06 / 2025 100 PS / 74 kW, 1199 ccm 1.310 km"
+          },
+          {
+            "detail_url": "https://www.denzel.at/gebrauchtwagen/jeep-avenger-mhev-my25-12-e-dct6-e-hybrid-altitude-70449",
+            "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/350x263px_crop/public/fahrzeuge/8192145/8192145-1-69a7d26ca25b2.jpg?itok=_sNLj3xh",
+            "brand": "Jeep",
+            "model": "Avenger MHEV MY25 1.2 e-DCT6 e-Hybrid Altitude",
+            "price_text": "€ 29.990,-",
+            "description": "Benzin / Automatik Erstzulassung 09 / 2025 100 PS / 74 kW, 1199 ccm 100 km"
+          },
+          {
+            "detail_url": "https://www.denzel.at/gebrauchtwagen/jeep-avenger-mhev-my25-12-e-dct6-e-hybrid-altitude-70448",
+            "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/350x263px_crop/public/fahrzeuge/8192144/8192144-1-69a7d26d43a76.jpg?itok=sRRt66q-",
+            "brand": "Jeep",
+            "model": "Avenger MHEV MY25 1.2 e-DCT6 e-Hybrid Altitude",
+            "price_text": "€ 29.990,-",
+            "description": "Benzin / Automatik Erstzulassung 09 / 2025 100 PS / 74 kW, 1199 ccm 100 km"
+          },
+          {
+            "detail_url": "https://www.denzel.at/gebrauchtwagen/jeep-avenger-benzin-12-gse-t3-100-ps-altitude-67083",
+            "image_url": "https://www.denzel.at/sites/denzel.at/files/styles/350x263px_crop/public/fahrzeuge/7904534/7904534-1-69a7d38ac6e81.jpg?itok=JqeZ4k26",
+            "brand": "Jeep",
+            "model": "Avenger Benzin 1,2 GSE T3 100 PS Altitude",
+            "price_text": "€ 25.900,-",
+            "description": "Benzin / Schaltgetriebe Erstzulassung 04 / 2025 100 PS / 74 kW, 1199 ccm 9.751 km"
+          }
+        ]
+      }
+    }
+  ]
+}
